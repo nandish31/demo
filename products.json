@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Python Programmin",
+                "price": 100.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/python.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "Java Pro",
+                "price": 102.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/java.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "C++ pro",
+                "price": 89.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/c++.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "Web Devep",
+                "price": 78.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/web.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "Digital Mark",
+                "price": 110.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/dm.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "Full Stack",
+                "price": 149.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/fs.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "Algorithms ",
+                "price": 88.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/ag.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "Data Science",
+                "price": 100.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "image/ds.png"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
